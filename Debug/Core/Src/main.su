@@ -1,0 +1,11 @@
+main.c:99:5:main	32	static,ignoring_inline_asm
+main.c:227:6:SystemClock_Config	88	static
+main.c:272:13:MX_I2C1_Init	8	static
+main.c:304:13:MX_I2C3_Init	8	static
+main.c:336:13:MX_GPIO_Init	40	static
+main.c:379:6:HAL_GPIO_EXTI_Callback	16	static
+main.c:393:6:HAL_NVIC_Enable	8	static
+main.c:407:6:AXIS_Assign	24	static
+main.c:416:6:SYNC	8	static
+main.c:425:6:JumpToBootloader	24	static,ignoring_inline_asm
+main.c:449:6:Error_Handler	4	static,ignoring_inline_asm

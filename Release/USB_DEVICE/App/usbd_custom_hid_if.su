@@ -1,0 +1,3 @@
+usbd_custom_hid_if.c:180:15:CUSTOM_HID_Init_FS	0	static
+usbd_custom_hid_if.c:202:8:CUSTOM_HID_OutEvent_FS	8	static
+usbd_custom_hid_if.c:190:15:CUSTOM_HID_DeInit_FS	0	static

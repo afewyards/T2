@@ -1,0 +1,6 @@
+ADS122C04.c:114:6:ADS122C04_ProcessInterrupt	0	static
+ADS122C04.c:118:6:ADS122C04_SetGain	0	static
+ADS122C04.c:135:19:ADS122C04_ReadRegister	24	static
+ADS122C04.c:141:19:ADS122C04_WriteRegister	24	static
+ADS122C04.c:80:9:ADS122C04_Initialize	16	static
+ADS122C04.c:122:19:ADS122C04_ReadAll	24	static

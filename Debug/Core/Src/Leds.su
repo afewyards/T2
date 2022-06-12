@@ -1,0 +1,4 @@
+Leds.c:4:6:LEDS_Initialize	16	static
+Leds.c:10:6:LEDS_Set	16	static
+Leds.c:27:6:LEDS_Run	24	static
+Leds.c:40:6:LEDS_SetDelay	16	static

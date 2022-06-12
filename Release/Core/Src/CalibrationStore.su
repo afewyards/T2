@@ -1,0 +1,9 @@
+CalibrationStore.c:22:15:limit	24	static
+CalibrationStore.c:54:15:CalibrationStore_ProcessCenterAxis	64	static
+CalibrationStore.c:83:6:CalibrationStore_Initialize	24	static
+CalibrationStore.c:107:6:CalibrationStore_Calibrate	32	static
+CalibrationStore.c:129:6:CalibrationStore_Cursor	32	static
+CalibrationStore.c:140:6:CalibrationStore_CursorCenter	16	static
+CalibrationStore.c:146:6:CalibrationStore_Process	88	static
+CalibrationStore.c:178:10:CalibrationStore_Store	96	static
+CalibrationStore.c:214:10:CalibrationStore_Retrieve	304	static
